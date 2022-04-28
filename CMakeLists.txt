@@ -37,9 +37,6 @@ target_compile_definitions(${TARGET}
     "NK_IMPLEMENTATION"
 )
 
-get_target_property(defs ${TARGET} COMPILE_DEFINITIONS)
-message("defs: ${defs}")
-
 # === FILE =====================================================================
 
 # Directories
