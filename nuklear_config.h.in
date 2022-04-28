@@ -1,0 +1,4 @@
+#ifndef NUKLEAR_CONFIG_H
+#define NUKLEAR_CONFIG_H
+
+#endif // NUKLEAR_CONFIG_H
